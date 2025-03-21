@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>table</title>
+</head>
+<body>
+    <table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+       
+        <tbody>
+            <tr>
+                <td rowspan="2">Age group</td>
+            <td colspan="2">male children</td>
+            
+            <td rowspan="2">total (a)</td>
+            <td colspan="2">female children</td>
+            <td rowspan="2">total (b)</td>
+            <td rowspan="2">grand total (a+b)</td>
+            </tr>
+            <tr>
+                <td>residents</td>
+                <td>non residents</td>
+                <td>residents</td>
+                <td>non residents</td>
+            </tr>
+            
+            <tr>
+                <td>3-5</td>
+                <td>4</td>
+                <td>8</td>
+                <td>12</td>
+                <td>4</td>
+                <td>4</td>
+                <td>8</td>
+                <td>20</td>
+            </tr>
+           
+            <tr>
+                <td>5-8</td>
+                <td>3</td>
+                <td>3</td>
+                <td>6</td>
+                <td>2</td>
+                <td>1</td>
+                <td>3</td>
+                <td>9</td>
+            </tr>
+            <tr>
+                <td>8-10</td>
+                <td>3</td>
+                <td>3</td>
+                <td>6</td>
+                <td>2</td>
+                <td>2</td>
+                <td>4</td>
+                <td>10</td>
+            </tr>
+            <tr>
+                <td>10-12</td>
+                <td>4</td>
+                <td>0</td>
+                <td>4</td>
+                <td>2</td>
+                <td>1</td>
+                <td>3</td>
+                <td>7</td>
+            </tr>
+            <tr>
+                <td>12-15</td>
+                <td>3</td>
+                <td>1</td>
+                <td>4</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                  <td>total</td>
+                  <td>17</td>
+<td>15</td>
+<td>32</td>
+<td>10</td>
+<td>8</td>    
+<td>18</td>
+<td>50</td>
+</tr>
+        </tbody>
+    </table>
+    
+</body>
+</html>

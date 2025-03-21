@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>aqsa and sara</title>
+</head>
+<body>
+    <table border="1" style="border-collapse: collapse; width: 100%; height: 10cm; text-align: center;">
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+
+<tbody>
+<tr>
+<td style="background-color: aqua;">H</td>
+<td></td>
+<td rowspan="3" colspan="3" style="text-align: center;">periodic table of elements</td>
+<td></td>
+<td style="background-color: yellow;">He</td>
+</tr>
+<tr>
+
+    <td>Li</td>
+    <td>Be</td>
+    <td>B</td>
+    <td style="background-color: yellow;">C</td>
+</tr>
+<tr>
+    <td>Na</td>
+    <td>Mg</td>
+    <td>Al</td>
+    <td style="background-color: yellow;">Si</td>
+</tr>
+<tr>
+    <td>K</td>
+    <td>Ca</td>
+    <td>Sc</td>
+    <td>ti</td>
+    <td>v</td>
+    <td>cr</td>
+    <td style="background-color: yellow;">Mn</td>
+</tr>
+
+
+</tbody>
+    </table>
+</body>
+</html>

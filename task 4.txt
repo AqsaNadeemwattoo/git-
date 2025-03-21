@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1">
+        <th><img src="" alt="logo here"></th>
+<th><a href="C:\Users\DELL\OneDrive\Desktop\html practice\contact us.html">contact us</a></th>
+
+<th><a href="C:\Users\DELL\OneDrive\Desktop\html practice\about.html">about</a></th>
+<th><a href="C:\Users\DELL\OneDrive\Desktop\html practice\navigation pane.html">navigation pane</a></th>
+<tbody>
+<tr>
+ <td><a href="C:\Users\DELL\OneDrive\Desktop\html practice\contact us.html">contact us</a></td>   
+ <td><img src="" alt="image 1"></td>
+ <td><img src="" alt="image 2"></td>
+ <td><img src="" alt="image 3"></td>
+
+</tr>
+<tr>
+    <td></td>
+    <td>this is the first image</td>
+    <td>this is the second image</td>
+    <td>this is the third image</td>
+</tr>
+<tr>
+    <td><a href="C:\Users\DELL\OneDrive\Desktop\html practice\about.html">about</a></td>
+    <td><img src="" alt="image 4"></td>
+ <td><img src="" alt="image 5"></td>
+ <td><img src="" alt="image 6"></td>
+</tr>
+<tr>
+    <td></td>
+    <td>this is the 4th image</td>
+    <td>this is the 5th image</td>
+    <td>this is the 6th image</td>
+</tr>
+<tr>
+    <td><a href="C:\Users\DELL\OneDrive\Desktop\html practice\navigation pane.html">navigation pane</a></td>
+    <td><img src="" alt="image 7"></td>
+ <td><img src="" alt="image 8"></td>
+ <td><img src="" alt="image 9"></td>
+</tr>
+<tr>
+    <td></td>
+    <td>this is the 7th image</td>
+    <td>this is the 8th image</td>
+    <td>this is the 9th image</td>
+</tr>
+</tbody>
+    </table>
+</body>
+</html>

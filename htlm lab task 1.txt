@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>malaika and aqsa</title>
+</head>
+<body>
+    <table border="2" style="text-align: center; border-style: solid; width: 100%;height: 10cm; border-collapse: collapse;">
+        <thead > 
+            <th style="background-color: blue;" style="text-align: center;" colspan="4"> main header</th>
+        </thead>
+        <thead> 
+            <th style="text-align: center;" colspan="4"> details of student</th>
+        </thead>
+        <thead> 
+            <th style="background-color: green">branch </th>
+            <th style="background-color: green">section</th>
+            <th style="background-color: green">name</th>
+            <th style="background-color: green">address</th>
+        </thead>
+        <tbody>
+            <tr> 
+                <td rowspan="4">computer science </td>
+                <td rowspan="3"> section 1</td>
+                <td>amit</td>
+                <td>bikaner</td>
+            </tr>
+            <tr>
+             <td>sumit</td>
+             <td>gurgaon</td>
+
+
+
+            </tr>
+            <tr>
+                <td>ankit</td>
+                <td>alahabaad</td>
+            </tr>
+            <tr>
+<td>section 2</td>
+<td>anjali</td>
+<td>varanasi</td>
+
+
+            </tr>
+        </tbody>
+        
+    </table>
+ 
+
+</body>
+</html>
